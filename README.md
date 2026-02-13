@@ -1,8 +1,8 @@
 
 | Commits | Issues | Pull Requests | Forks & Stars |
 |---------|--------|---------------| ------------- |
-| ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/TheCarBun/GitHub-Stat-Checker) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/TheCarBun/GitHub-Stat-Checker?color=green) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-raw/TheCarBun/GitHub-Stat-Checker?color=green)  | ![GitHub forks](https://img.shields.io/github/forks/TheCarBun/GitHub-Stat-Checker?style=for-the-badge) |
-|![GitHub last commit](https://img.shields.io/github/last-commit/TheCarBun/GitHub-Stat-Checker) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/TheCarBun/GitHub-Stat-Checker) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/TheCarBun/GitHub-Stat-Checker)  | ![GitHub Repo stars](https://img.shields.io/github/stars/TheCarBun/GitHub-Stat-Checker?style=for-the-badge&color=yellow) |
+| ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/TheCarBun/GitHub-Analytics) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/TheCarBun/GitHub-Analytics?color=green) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-raw/TheCarBun/GitHub-Analytics?color=green)  | ![GitHub forks](https://img.shields.io/github/forks/TheCarBun/GitHub-Analytics?style=for-the-badge) |
+|![GitHub last commit](https://img.shields.io/github/last-commit/TheCarBun/GitHub-Analytics) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/TheCarBun/GitHub-Analytics) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/TheCarBun/GitHub-Analytics)  | ![GitHub Repo stars](https://img.shields.io/github/stars/TheCarBun/GitHub-Analytics?style=for-the-badge&color=yellow) |
 
 # GitHub Stat Checker
 
@@ -72,8 +72,8 @@ GitHub Contribution Tracker is a **Streamlit** web application that visualizes G
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TheCarBun/GitHub-Stat-Checker.git
-   cd GitHub-Stat-Checker
+   git clone https://github.com/TheCarBun/GitHub-Analytics.git
+   cd GitHub-Analytics
    ```
 
 2. Install dependencies:
