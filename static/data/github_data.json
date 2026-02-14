@@ -1,0 +1,3052 @@
+{
+    "user_stats": {
+        "name": "ishan dutta",
+        "bio": "is an AI obsessed Entrepreneur, #ex-FAANG, #GenerativeAI, #RPA.\r\n",
+        "location": "India",
+        "created_at": "2012-10-10T10:10:31Z",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2527354?u=53a6917dedfde6af669828eaba686d53db710e1e&v=4",
+        "followers": 8230,
+        "following": 29278,
+        "repositories": 327,
+        "total_commits": 1563,
+        "total_pullrequests": 1,
+        "total_issues": 3,
+        "formatted_date": "10th Oct, 2012",
+        "joined_since": "13 years 4 months 9 days",
+        "github_days": 4874,
+        "less_than_2_months_old": false
+    },
+    "contribution_stats": {
+        "total_contributions": 2349,
+        "public_contributions": 2048,
+        "private_contributions": 301,
+        "highest_contribution": 207,
+        "highest_contribution_date": "11th Feb, 2026",
+        "today_commits": 0,
+        "current_streak": 8,
+        "longest_streak": 15,
+        "active_days": 144,
+        "days": [
+            {
+                "contributionCount": 0,
+                "date": "2025-02-09"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-10"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-11"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-12"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-13"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-14"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-15"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-16"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-17"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-18"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-19"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-20"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-21"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-22"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-23"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-24"
+            },
+            {
+                "contributionCount": 4,
+                "date": "2025-02-25"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-02-26"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-27"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-02-28"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-03-01"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-03-02"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-03-03"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-04"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-05"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-03-06"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-07"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-08"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-09"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-03-10"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-03-11"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-12"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-13"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-14"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-15"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-16"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-17"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-18"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-19"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-03-20"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-21"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-22"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-23"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-24"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-25"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-26"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-27"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-28"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-29"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-30"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-03-31"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-01"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-02"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-03"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-04"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-04-05"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-06"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-07"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-08"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-09"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-10"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-11"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-12"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-13"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-14"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-15"
+            },
+            {
+                "contributionCount": 7,
+                "date": "2025-04-16"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-17"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-18"
+            },
+            {
+                "contributionCount": 7,
+                "date": "2025-04-19"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-20"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-04-21"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-22"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-23"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-24"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-25"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-04-26"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-04-27"
+            },
+            {
+                "contributionCount": 17,
+                "date": "2025-04-28"
+            },
+            {
+                "contributionCount": 6,
+                "date": "2025-04-29"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-04-30"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-01"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-02"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-05-03"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-04"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-05"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-06"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-07"
+            },
+            {
+                "contributionCount": 8,
+                "date": "2025-05-08"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-09"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-10"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-11"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-05-12"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-05-13"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-05-14"
+            },
+            {
+                "contributionCount": 4,
+                "date": "2025-05-15"
+            },
+            {
+                "contributionCount": 6,
+                "date": "2025-05-16"
+            },
+            {
+                "contributionCount": 7,
+                "date": "2025-05-17"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-05-18"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-19"
+            },
+            {
+                "contributionCount": 6,
+                "date": "2025-05-20"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-05-21"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-22"
+            },
+            {
+                "contributionCount": 7,
+                "date": "2025-05-23"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-24"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-25"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-26"
+            },
+            {
+                "contributionCount": 18,
+                "date": "2025-05-27"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-05-28"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-05-29"
+            },
+            {
+                "contributionCount": 13,
+                "date": "2025-05-30"
+            },
+            {
+                "contributionCount": 11,
+                "date": "2025-05-31"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-06-01"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-02"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-03"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-04"
+            },
+            {
+                "contributionCount": 5,
+                "date": "2025-06-05"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-06"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-07"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-06-08"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-09"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-10"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-11"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-12"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-13"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-06-14"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-15"
+            },
+            {
+                "contributionCount": 9,
+                "date": "2025-06-16"
+            },
+            {
+                "contributionCount": 5,
+                "date": "2025-06-17"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-18"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-06-19"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-20"
+            },
+            {
+                "contributionCount": 6,
+                "date": "2025-06-21"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-22"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-23"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-24"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-25"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-26"
+            },
+            {
+                "contributionCount": 6,
+                "date": "2025-06-27"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-06-28"
+            },
+            {
+                "contributionCount": 5,
+                "date": "2025-06-29"
+            },
+            {
+                "contributionCount": 4,
+                "date": "2025-06-30"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-01"
+            },
+            {
+                "contributionCount": 4,
+                "date": "2025-07-02"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-03"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-04"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-05"
+            },
+            {
+                "contributionCount": 14,
+                "date": "2025-07-06"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-07-07"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-07-08"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-09"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-10"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-11"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-12"
+            },
+            {
+                "contributionCount": 5,
+                "date": "2025-07-13"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-14"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-15"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-16"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-17"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-18"
+            },
+            {
+                "contributionCount": 21,
+                "date": "2025-07-19"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-20"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-21"
+            },
+            {
+                "contributionCount": 10,
+                "date": "2025-07-22"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-23"
+            },
+            {
+                "contributionCount": 4,
+                "date": "2025-07-24"
+            },
+            {
+                "contributionCount": 6,
+                "date": "2025-07-25"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-26"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-27"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-07-28"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-07-29"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-07-30"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-07-31"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-01"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-02"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-03"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-04"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-05"
+            },
+            {
+                "contributionCount": 21,
+                "date": "2025-08-06"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-07"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-08-08"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-09"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-10"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-11"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-12"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-08-13"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-14"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-15"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-16"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-17"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-18"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-19"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-20"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-21"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-22"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-08-23"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-24"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-08-25"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-26"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-27"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-28"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-29"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-30"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-08-31"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-01"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-02"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-03"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-04"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-05"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-06"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-07"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-08"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-09-09"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-09-10"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-11"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-12"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-13"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-14"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-15"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-09-16"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-17"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-18"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-19"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-20"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-09-21"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-22"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-23"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-24"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-25"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-26"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-27"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-28"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-29"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-09-30"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-01"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-02"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-03"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-04"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-05"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-06"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-10-07"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-08"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-09"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-10"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-11"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-12"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-13"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-14"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-15"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-16"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-17"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-18"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-10-19"
+            },
+            {
+                "contributionCount": 6,
+                "date": "2025-10-20"
+            },
+            {
+                "contributionCount": 11,
+                "date": "2025-10-21"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-22"
+            },
+            {
+                "contributionCount": 12,
+                "date": "2025-10-23"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-24"
+            },
+            {
+                "contributionCount": 8,
+                "date": "2025-10-25"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-10-26"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-27"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-28"
+            },
+            {
+                "contributionCount": 5,
+                "date": "2025-10-29"
+            },
+            {
+                "contributionCount": 4,
+                "date": "2025-10-30"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-10-31"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-11-01"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-11-02"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-11-03"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-11-04"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-11-05"
+            },
+            {
+                "contributionCount": 43,
+                "date": "2025-11-06"
+            },
+            {
+                "contributionCount": 11,
+                "date": "2025-11-07"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-11-08"
+            },
+            {
+                "contributionCount": 14,
+                "date": "2025-11-09"
+            },
+            {
+                "contributionCount": 21,
+                "date": "2025-11-10"
+            },
+            {
+                "contributionCount": 9,
+                "date": "2025-11-11"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-11-12"
+            },
+            {
+                "contributionCount": 147,
+                "date": "2025-11-13"
+            },
+            {
+                "contributionCount": 45,
+                "date": "2025-11-14"
+            },
+            {
+                "contributionCount": 12,
+                "date": "2025-11-15"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-11-16"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-11-17"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-11-18"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-11-19"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-11-20"
+            },
+            {
+                "contributionCount": 19,
+                "date": "2025-11-21"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-11-22"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-11-23"
+            },
+            {
+                "contributionCount": 11,
+                "date": "2025-11-24"
+            },
+            {
+                "contributionCount": 17,
+                "date": "2025-11-25"
+            },
+            {
+                "contributionCount": 18,
+                "date": "2025-11-26"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-11-27"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-11-28"
+            },
+            {
+                "contributionCount": 19,
+                "date": "2025-11-29"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-11-30"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-01"
+            },
+            {
+                "contributionCount": 4,
+                "date": "2025-12-02"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-03"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-12-04"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-05"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-12-06"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-07"
+            },
+            {
+                "contributionCount": 2,
+                "date": "2025-12-08"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-09"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-10"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-12-11"
+            },
+            {
+                "contributionCount": 5,
+                "date": "2025-12-12"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-13"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-14"
+            },
+            {
+                "contributionCount": 3,
+                "date": "2025-12-15"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-16"
+            },
+            {
+                "contributionCount": 17,
+                "date": "2025-12-17"
+            },
+            {
+                "contributionCount": 28,
+                "date": "2025-12-18"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2025-12-19"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-20"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-21"
+            },
+            {
+                "contributionCount": 6,
+                "date": "2025-12-22"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-23"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-24"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-25"
+            },
+            {
+                "contributionCount": 4,
+                "date": "2025-12-26"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-27"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-28"
+            },
+            {
+                "contributionCount": 10,
+                "date": "2025-12-29"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2025-12-30"
+            },
+            {
+                "contributionCount": 13,
+                "date": "2025-12-31"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2026-01-01"
+            },
+            {
+                "contributionCount": 18,
+                "date": "2026-01-02"
+            },
+            {
+                "contributionCount": 5,
+                "date": "2026-01-03"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2026-01-04"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2026-01-05"
+            },
+            {
+                "contributionCount": 7,
+                "date": "2026-01-06"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2026-01-07"
+            },
+            {
+                "contributionCount": 4,
+                "date": "2026-01-08"
+            },
+            {
+                "contributionCount": 48,
+                "date": "2026-01-09"
+            },
+            {
+                "contributionCount": 151,
+                "date": "2026-01-10"
+            },
+            {
+                "contributionCount": 22,
+                "date": "2026-01-11"
+            },
+            {
+                "contributionCount": 95,
+                "date": "2026-01-12"
+            },
+            {
+                "contributionCount": 124,
+                "date": "2026-01-13"
+            },
+            {
+                "contributionCount": 73,
+                "date": "2026-01-14"
+            },
+            {
+                "contributionCount": 6,
+                "date": "2026-01-15"
+            },
+            {
+                "contributionCount": 25,
+                "date": "2026-01-16"
+            },
+            {
+                "contributionCount": 6,
+                "date": "2026-01-17"
+            },
+            {
+                "contributionCount": 60,
+                "date": "2026-01-18"
+            },
+            {
+                "contributionCount": 55,
+                "date": "2026-01-19"
+            },
+            {
+                "contributionCount": 37,
+                "date": "2026-01-20"
+            },
+            {
+                "contributionCount": 19,
+                "date": "2026-01-21"
+            },
+            {
+                "contributionCount": 11,
+                "date": "2026-01-22"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2026-01-23"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2026-01-24"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2026-01-25"
+            },
+            {
+                "contributionCount": 6,
+                "date": "2026-01-26"
+            },
+            {
+                "contributionCount": 24,
+                "date": "2026-01-27"
+            },
+            {
+                "contributionCount": 6,
+                "date": "2026-01-28"
+            },
+            {
+                "contributionCount": 12,
+                "date": "2026-01-29"
+            },
+            {
+                "contributionCount": 1,
+                "date": "2026-01-30"
+            },
+            {
+                "contributionCount": 15,
+                "date": "2026-01-31"
+            },
+            {
+                "contributionCount": 30,
+                "date": "2026-02-01"
+            },
+            {
+                "contributionCount": 28,
+                "date": "2026-02-02"
+            },
+            {
+                "contributionCount": 16,
+                "date": "2026-02-03"
+            },
+            {
+                "contributionCount": 10,
+                "date": "2026-02-04"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2026-02-05"
+            },
+            {
+                "contributionCount": 6,
+                "date": "2026-02-06"
+            },
+            {
+                "contributionCount": 5,
+                "date": "2026-02-07"
+            },
+            {
+                "contributionCount": 6,
+                "date": "2026-02-08"
+            },
+            {
+                "contributionCount": 5,
+                "date": "2026-02-09"
+            },
+            {
+                "contributionCount": 5,
+                "date": "2026-02-10"
+            },
+            {
+                "contributionCount": 207,
+                "date": "2026-02-11"
+            },
+            {
+                "contributionCount": 7,
+                "date": "2026-02-12"
+            },
+            {
+                "contributionCount": 22,
+                "date": "2026-02-13"
+            },
+            {
+                "contributionCount": 0,
+                "date": "2026-02-14"
+            }
+        ]
+    },
+    "language_data": {
+        "R": {
+            "count": 7,
+            "color": "#198CE7"
+        },
+        "HTML": {
+            "count": 8,
+            "color": "#e34c26"
+        },
+        "JavaScript": {
+            "count": 12,
+            "color": "#f1e05a"
+        },
+        "Java": {
+            "count": 2,
+            "color": "#b07219"
+        },
+        "TypeScript": {
+            "count": 2,
+            "color": "#3178c6"
+        },
+        "Shell": {
+            "count": 9,
+            "color": "#89e051"
+        },
+        "CSS": {
+            "count": 2,
+            "color": "#663399"
+        },
+        "Python": {
+            "count": 38,
+            "color": "#3572A5"
+        },
+        "Ruby": {
+            "count": 1,
+            "color": "#701516"
+        }
+    },
+    "current_year_stats": {
+        "total_contributions": 1177,
+        "total_days": 45,
+        "active_days": 36,
+        "contribution_rate": 26.16
+    },
+    "last_year_stats": {
+        "total_contributions": 923,
+        "total_days": 365,
+        "active_days": 122,
+        "contribution_rate": 2.53
+    },
+    "chart_data": [
+        {
+            "date": "2025-02-09",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-10",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-11",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-12",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-13",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-14",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-15",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-16",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-17",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-18",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-19",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-20",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-21",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-22",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-23",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-24",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-25",
+            "contributions": 4
+        },
+        {
+            "date": "2025-02-26",
+            "contributions": 2
+        },
+        {
+            "date": "2025-02-27",
+            "contributions": 0
+        },
+        {
+            "date": "2025-02-28",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-01",
+            "contributions": 3
+        },
+        {
+            "date": "2025-03-02",
+            "contributions": 2
+        },
+        {
+            "date": "2025-03-03",
+            "contributions": 1
+        },
+        {
+            "date": "2025-03-04",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-05",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-06",
+            "contributions": 3
+        },
+        {
+            "date": "2025-03-07",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-08",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-09",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-10",
+            "contributions": 3
+        },
+        {
+            "date": "2025-03-11",
+            "contributions": 2
+        },
+        {
+            "date": "2025-03-12",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-13",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-14",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-15",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-16",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-17",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-18",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-19",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-20",
+            "contributions": 1
+        },
+        {
+            "date": "2025-03-21",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-22",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-23",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-24",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-25",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-26",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-27",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-28",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-29",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-30",
+            "contributions": 0
+        },
+        {
+            "date": "2025-03-31",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-01",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-02",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-03",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-04",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-05",
+            "contributions": 1
+        },
+        {
+            "date": "2025-04-06",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-07",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-08",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-09",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-10",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-11",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-12",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-13",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-14",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-15",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-16",
+            "contributions": 7
+        },
+        {
+            "date": "2025-04-17",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-18",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-19",
+            "contributions": 7
+        },
+        {
+            "date": "2025-04-20",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-21",
+            "contributions": 3
+        },
+        {
+            "date": "2025-04-22",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-23",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-24",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-25",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-26",
+            "contributions": 0
+        },
+        {
+            "date": "2025-04-27",
+            "contributions": 3
+        },
+        {
+            "date": "2025-04-28",
+            "contributions": 17
+        },
+        {
+            "date": "2025-04-29",
+            "contributions": 6
+        },
+        {
+            "date": "2025-04-30",
+            "contributions": 1
+        },
+        {
+            "date": "2025-05-01",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-02",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-03",
+            "contributions": 2
+        },
+        {
+            "date": "2025-05-04",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-05",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-06",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-07",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-08",
+            "contributions": 8
+        },
+        {
+            "date": "2025-05-09",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-10",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-11",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-12",
+            "contributions": 2
+        },
+        {
+            "date": "2025-05-13",
+            "contributions": 3
+        },
+        {
+            "date": "2025-05-14",
+            "contributions": 3
+        },
+        {
+            "date": "2025-05-15",
+            "contributions": 4
+        },
+        {
+            "date": "2025-05-16",
+            "contributions": 6
+        },
+        {
+            "date": "2025-05-17",
+            "contributions": 7
+        },
+        {
+            "date": "2025-05-18",
+            "contributions": 1
+        },
+        {
+            "date": "2025-05-19",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-20",
+            "contributions": 6
+        },
+        {
+            "date": "2025-05-21",
+            "contributions": 3
+        },
+        {
+            "date": "2025-05-22",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-23",
+            "contributions": 7
+        },
+        {
+            "date": "2025-05-24",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-25",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-26",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-27",
+            "contributions": 18
+        },
+        {
+            "date": "2025-05-28",
+            "contributions": 3
+        },
+        {
+            "date": "2025-05-29",
+            "contributions": 0
+        },
+        {
+            "date": "2025-05-30",
+            "contributions": 13
+        },
+        {
+            "date": "2025-05-31",
+            "contributions": 11
+        },
+        {
+            "date": "2025-06-01",
+            "contributions": 3
+        },
+        {
+            "date": "2025-06-02",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-03",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-04",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-05",
+            "contributions": 5
+        },
+        {
+            "date": "2025-06-06",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-07",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-08",
+            "contributions": 3
+        },
+        {
+            "date": "2025-06-09",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-10",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-11",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-12",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-13",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-14",
+            "contributions": 2
+        },
+        {
+            "date": "2025-06-15",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-16",
+            "contributions": 9
+        },
+        {
+            "date": "2025-06-17",
+            "contributions": 5
+        },
+        {
+            "date": "2025-06-18",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-19",
+            "contributions": 2
+        },
+        {
+            "date": "2025-06-20",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-21",
+            "contributions": 6
+        },
+        {
+            "date": "2025-06-22",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-23",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-24",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-25",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-26",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-27",
+            "contributions": 6
+        },
+        {
+            "date": "2025-06-28",
+            "contributions": 0
+        },
+        {
+            "date": "2025-06-29",
+            "contributions": 5
+        },
+        {
+            "date": "2025-06-30",
+            "contributions": 4
+        },
+        {
+            "date": "2025-07-01",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-02",
+            "contributions": 4
+        },
+        {
+            "date": "2025-07-03",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-04",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-05",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-06",
+            "contributions": 14
+        },
+        {
+            "date": "2025-07-07",
+            "contributions": 2
+        },
+        {
+            "date": "2025-07-08",
+            "contributions": 1
+        },
+        {
+            "date": "2025-07-09",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-10",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-11",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-12",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-13",
+            "contributions": 5
+        },
+        {
+            "date": "2025-07-14",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-15",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-16",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-17",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-18",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-19",
+            "contributions": 21
+        },
+        {
+            "date": "2025-07-20",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-21",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-22",
+            "contributions": 10
+        },
+        {
+            "date": "2025-07-23",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-24",
+            "contributions": 4
+        },
+        {
+            "date": "2025-07-25",
+            "contributions": 6
+        },
+        {
+            "date": "2025-07-26",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-27",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-28",
+            "contributions": 0
+        },
+        {
+            "date": "2025-07-29",
+            "contributions": 3
+        },
+        {
+            "date": "2025-07-30",
+            "contributions": 2
+        },
+        {
+            "date": "2025-07-31",
+            "contributions": 3
+        },
+        {
+            "date": "2025-08-01",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-02",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-03",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-04",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-05",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-06",
+            "contributions": 21
+        },
+        {
+            "date": "2025-08-07",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-08",
+            "contributions": 2
+        },
+        {
+            "date": "2025-08-09",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-10",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-11",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-12",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-13",
+            "contributions": 1
+        },
+        {
+            "date": "2025-08-14",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-15",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-16",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-17",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-18",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-19",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-20",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-21",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-22",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-23",
+            "contributions": 2
+        },
+        {
+            "date": "2025-08-24",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-25",
+            "contributions": 1
+        },
+        {
+            "date": "2025-08-26",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-27",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-28",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-29",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-30",
+            "contributions": 0
+        },
+        {
+            "date": "2025-08-31",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-01",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-02",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-03",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-04",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-05",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-06",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-07",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-08",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-09",
+            "contributions": 3
+        },
+        {
+            "date": "2025-09-10",
+            "contributions": 1
+        },
+        {
+            "date": "2025-09-11",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-12",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-13",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-14",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-15",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-16",
+            "contributions": 1
+        },
+        {
+            "date": "2025-09-17",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-18",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-19",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-20",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-21",
+            "contributions": 1
+        },
+        {
+            "date": "2025-09-22",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-23",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-24",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-25",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-26",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-27",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-28",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-29",
+            "contributions": 0
+        },
+        {
+            "date": "2025-09-30",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-01",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-02",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-03",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-04",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-05",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-06",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-07",
+            "contributions": 2
+        },
+        {
+            "date": "2025-10-08",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-09",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-10",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-11",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-12",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-13",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-14",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-15",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-16",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-17",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-18",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-19",
+            "contributions": 2
+        },
+        {
+            "date": "2025-10-20",
+            "contributions": 6
+        },
+        {
+            "date": "2025-10-21",
+            "contributions": 11
+        },
+        {
+            "date": "2025-10-22",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-23",
+            "contributions": 12
+        },
+        {
+            "date": "2025-10-24",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-25",
+            "contributions": 8
+        },
+        {
+            "date": "2025-10-26",
+            "contributions": 2
+        },
+        {
+            "date": "2025-10-27",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-28",
+            "contributions": 0
+        },
+        {
+            "date": "2025-10-29",
+            "contributions": 5
+        },
+        {
+            "date": "2025-10-30",
+            "contributions": 4
+        },
+        {
+            "date": "2025-10-31",
+            "contributions": 0
+        },
+        {
+            "date": "2025-11-01",
+            "contributions": 0
+        },
+        {
+            "date": "2025-11-02",
+            "contributions": 3
+        },
+        {
+            "date": "2025-11-03",
+            "contributions": 0
+        },
+        {
+            "date": "2025-11-04",
+            "contributions": 3
+        },
+        {
+            "date": "2025-11-05",
+            "contributions": 2
+        },
+        {
+            "date": "2025-11-06",
+            "contributions": 43
+        },
+        {
+            "date": "2025-11-07",
+            "contributions": 11
+        },
+        {
+            "date": "2025-11-08",
+            "contributions": 2
+        },
+        {
+            "date": "2025-11-09",
+            "contributions": 14
+        },
+        {
+            "date": "2025-11-10",
+            "contributions": 21
+        },
+        {
+            "date": "2025-11-11",
+            "contributions": 9
+        },
+        {
+            "date": "2025-11-12",
+            "contributions": 0
+        },
+        {
+            "date": "2025-11-13",
+            "contributions": 147
+        },
+        {
+            "date": "2025-11-14",
+            "contributions": 45
+        },
+        {
+            "date": "2025-11-15",
+            "contributions": 12
+        },
+        {
+            "date": "2025-11-16",
+            "contributions": 0
+        },
+        {
+            "date": "2025-11-17",
+            "contributions": 0
+        },
+        {
+            "date": "2025-11-18",
+            "contributions": 0
+        },
+        {
+            "date": "2025-11-19",
+            "contributions": 1
+        },
+        {
+            "date": "2025-11-20",
+            "contributions": 0
+        },
+        {
+            "date": "2025-11-21",
+            "contributions": 19
+        },
+        {
+            "date": "2025-11-22",
+            "contributions": 0
+        },
+        {
+            "date": "2025-11-23",
+            "contributions": 3
+        },
+        {
+            "date": "2025-11-24",
+            "contributions": 11
+        },
+        {
+            "date": "2025-11-25",
+            "contributions": 17
+        },
+        {
+            "date": "2025-11-26",
+            "contributions": 18
+        },
+        {
+            "date": "2025-11-27",
+            "contributions": 0
+        },
+        {
+            "date": "2025-11-28",
+            "contributions": 1
+        },
+        {
+            "date": "2025-11-29",
+            "contributions": 19
+        },
+        {
+            "date": "2025-11-30",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-01",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-02",
+            "contributions": 4
+        },
+        {
+            "date": "2025-12-03",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-04",
+            "contributions": 1
+        },
+        {
+            "date": "2025-12-05",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-06",
+            "contributions": 2
+        },
+        {
+            "date": "2025-12-07",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-08",
+            "contributions": 2
+        },
+        {
+            "date": "2025-12-09",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-10",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-11",
+            "contributions": 1
+        },
+        {
+            "date": "2025-12-12",
+            "contributions": 5
+        },
+        {
+            "date": "2025-12-13",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-14",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-15",
+            "contributions": 3
+        },
+        {
+            "date": "2025-12-16",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-17",
+            "contributions": 17
+        },
+        {
+            "date": "2025-12-18",
+            "contributions": 28
+        },
+        {
+            "date": "2025-12-19",
+            "contributions": 1
+        },
+        {
+            "date": "2025-12-20",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-21",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-22",
+            "contributions": 6
+        },
+        {
+            "date": "2025-12-23",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-24",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-25",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-26",
+            "contributions": 4
+        },
+        {
+            "date": "2025-12-27",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-28",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-29",
+            "contributions": 10
+        },
+        {
+            "date": "2025-12-30",
+            "contributions": 0
+        },
+        {
+            "date": "2025-12-31",
+            "contributions": 13
+        },
+        {
+            "date": "2026-01-01",
+            "contributions": 0
+        },
+        {
+            "date": "2026-01-02",
+            "contributions": 18
+        },
+        {
+            "date": "2026-01-03",
+            "contributions": 5
+        },
+        {
+            "date": "2026-01-04",
+            "contributions": 0
+        },
+        {
+            "date": "2026-01-05",
+            "contributions": 0
+        },
+        {
+            "date": "2026-01-06",
+            "contributions": 7
+        },
+        {
+            "date": "2026-01-07",
+            "contributions": 0
+        },
+        {
+            "date": "2026-01-08",
+            "contributions": 4
+        },
+        {
+            "date": "2026-01-09",
+            "contributions": 48
+        },
+        {
+            "date": "2026-01-10",
+            "contributions": 151
+        },
+        {
+            "date": "2026-01-11",
+            "contributions": 22
+        },
+        {
+            "date": "2026-01-12",
+            "contributions": 95
+        },
+        {
+            "date": "2026-01-13",
+            "contributions": 124
+        },
+        {
+            "date": "2026-01-14",
+            "contributions": 73
+        },
+        {
+            "date": "2026-01-15",
+            "contributions": 6
+        },
+        {
+            "date": "2026-01-16",
+            "contributions": 25
+        },
+        {
+            "date": "2026-01-17",
+            "contributions": 6
+        },
+        {
+            "date": "2026-01-18",
+            "contributions": 60
+        },
+        {
+            "date": "2026-01-19",
+            "contributions": 55
+        },
+        {
+            "date": "2026-01-20",
+            "contributions": 37
+        },
+        {
+            "date": "2026-01-21",
+            "contributions": 19
+        },
+        {
+            "date": "2026-01-22",
+            "contributions": 11
+        },
+        {
+            "date": "2026-01-23",
+            "contributions": 0
+        },
+        {
+            "date": "2026-01-24",
+            "contributions": 0
+        },
+        {
+            "date": "2026-01-25",
+            "contributions": 0
+        },
+        {
+            "date": "2026-01-26",
+            "contributions": 6
+        },
+        {
+            "date": "2026-01-27",
+            "contributions": 24
+        },
+        {
+            "date": "2026-01-28",
+            "contributions": 6
+        },
+        {
+            "date": "2026-01-29",
+            "contributions": 12
+        },
+        {
+            "date": "2026-01-30",
+            "contributions": 1
+        },
+        {
+            "date": "2026-01-31",
+            "contributions": 15
+        },
+        {
+            "date": "2026-02-01",
+            "contributions": 30
+        },
+        {
+            "date": "2026-02-02",
+            "contributions": 28
+        },
+        {
+            "date": "2026-02-03",
+            "contributions": 16
+        },
+        {
+            "date": "2026-02-04",
+            "contributions": 10
+        },
+        {
+            "date": "2026-02-05",
+            "contributions": 0
+        },
+        {
+            "date": "2026-02-06",
+            "contributions": 6
+        },
+        {
+            "date": "2026-02-07",
+            "contributions": 5
+        },
+        {
+            "date": "2026-02-08",
+            "contributions": 6
+        },
+        {
+            "date": "2026-02-09",
+            "contributions": 5
+        },
+        {
+            "date": "2026-02-10",
+            "contributions": 5
+        },
+        {
+            "date": "2026-02-11",
+            "contributions": 207
+        },
+        {
+            "date": "2026-02-12",
+            "contributions": 7
+        },
+        {
+            "date": "2026-02-13",
+            "contributions": 22
+        },
+        {
+            "date": "2026-02-14",
+            "contributions": 0
+        }
+    ]
+}
