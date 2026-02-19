@@ -162,3 +162,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **[Streamlit](https://streamlit.io/)**: For building the interactive web application.
 - **[GitHub GraphQL API](https://docs.github.com/en/graphql)**: For data fetching.
 # Github-Analytis
+
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Github-Analytics&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Github-Analytics&type=date&legend=top-left)
