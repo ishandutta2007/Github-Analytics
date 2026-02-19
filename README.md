@@ -1,10 +1,10 @@
 
+# GitHub Analytics
+
 | Commits | Issues | Pull Requests | Forks & Stars |
 |---------|--------|---------------| ------------- |
 | ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/ishandutta2007/GitHub-Analytics) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/ishandutta2007/GitHub-Analytics?color=green) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-raw/ishandutta2007/GitHub-Analytics?color=green)  | ![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/GitHub-Analytics?style=for-the-badge) |
 |![GitHub last commit](https://img.shields.io/github/last-commit/ishandutta2007/GitHub-Analytics) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/ishandutta2007/GitHub-Analytics) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/ishandutta2007/GitHub-Analytics)  | ![GitHub Repo stars](https://img.shields.io/github/stars/ishandutta2007/GitHub-Analytics?style=for-the-badge&color=yellow) |
-
-# GitHub Analytics
 
 GitHub Contribution Tracker is a **Streamlit** web application that visualizes GitHub user contributions with insightful metrics, charts, and achievements. This app uses the **GitHub GraphQL API** to fetch and display data about a user's contribution history, enabling users to track and analyze their growth.
 
@@ -161,7 +161,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **[Streamlit](https://streamlit.io/)**: For building the interactive web application.
 - **[GitHub GraphQL API](https://docs.github.com/en/graphql)**: For data fetching.
-# Github-Analytis
 
 
 ### ✨ Star History
