@@ -168,7 +168,7 @@ def fetch_star_count():
     """
     Returns the number of stars for the GitHub-Analytics repository.
     """
-    url = "https://api.github.com/repos/TheCarbun/GitHub-Analytics"
+    url = "https://api.github.com/repos/ishandutta2007/GitHub-Analytics"
     try:
         response = requests.get(url).json()
         return response.get('stargazers_count', 0)
