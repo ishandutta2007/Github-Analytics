@@ -76,19 +76,33 @@ GitHub Contribution Tracker is a **Streamlit** web application that visualizes G
    cd GitHub-Analytics
    ```
 
-2. Install dependencies:
+2. Set up a virtual environment (Optional but recommended):
+
+   Using `venv`:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   ```
+
+   Alternatively, using `pyenv`:
+   ```bash
+   pyenv virtualenv github-analytics-env
+   pyenv activate github-analytics-env
+   ```
+
+3. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Run the app:
+4. Run the app:
 
    ```bash
    streamlit run app.py
    ```
 
-4. Open your browser and navigate to the URL shown in the terminal (usually `http://localhost:8501`).
+5. Open your browser and navigate to the URL shown in the terminal (usually `http://localhost:8501`).
 
 ---
 
