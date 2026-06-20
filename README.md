@@ -1,43 +1,57 @@
+<div align="center">
+  <img src="assets/banner.svg" alt="GitHub Analytics Banner" />
 
-# GitHub Analytics
+  # 📊 GitHub Analytics
+  
+  **GitHub Contribution Tracker & Analyzer**  
+  Track, analyze, and predict your GitHub contributions with insightful metrics, beautiful charts, and dynamic achievements!
 
-| Commits | Issues | Pull Requests | Forks & Stars |
-|---------|--------|---------------| ------------- |
-| ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/ishandutta2007/GitHub-Analytics) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/ishandutta2007/GitHub-Analytics?color=green) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-raw/ishandutta2007/GitHub-Analytics?color=green)  | ![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/GitHub-Analytics?style=for-the-badge) |
-|![GitHub last commit](https://img.shields.io/github/last-commit/ishandutta2007/GitHub-Analytics) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/ishandutta2007/GitHub-Analytics) | ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/ishandutta2007/GitHub-Analytics)  | ![GitHub Repo stars](https://img.shields.io/github/stars/ishandutta2007/GitHub-Analytics?style=for-the-badge&color=yellow) |
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/ishandutta2007/GitHub-Analytics)
+  ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-raw/ishandutta2007/GitHub-Analytics?color=green)
+  ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-raw/ishandutta2007/GitHub-Analytics?color=green)
+  ![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/GitHub-Analytics?style=for-the-badge)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/ishandutta2007/GitHub-Analytics)
+  ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed-raw/ishandutta2007/GitHub-Analytics)
+  ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/ishandutta2007/GitHub-Analytics)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/ishandutta2007/GitHub-Analytics?style=for-the-badge&color=yellow)
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-GitHub Contribution Tracker is a **Streamlit** web application that visualizes GitHub user contributions with insightful metrics, charts, and achievements. This app uses the **GitHub GraphQL API** to fetch and display data about a user's contribution history, enabling users to track and analyze their growth.
+</div>
 
-**ℹ️  _Now predicts user contribution over a year using previous year's contribution data_**
+**GitHub Contribution Tracker** is a powerful **Streamlit** web application designed to visualize your GitHub user contributions. By leveraging the **GitHub GraphQL API**, it fetches and displays a detailed history of your contributions, enabling you to track, analyze, and boost your open-source growth.
 
-![image](https://github.com/user-attachments/assets/c3ed1d8b-4351-4f5c-955d-442b2f14ca54)
+**ℹ️ _Now features Machine Learning to predict user contribution over a year using previous year's contribution data!_**
 
-## Features
+![GitHub Analytics Main Dashboard](assets/screenshot.png)
+
+## 🚀 Features
+
 <details>
-<summary><b>User Stats Overview</b></summary><br>
+<summary><b>📈 User Stats Overview</b></summary><br>
 
-- **User Stats**:
+- **🧑‍💻 User Stats**:
   - Total contributions across all repositories _(Now shows no. of private and public commits)_.
   - Highest contributions in a single day _(Now shows date)_.
   - Current streak of consecutive contribution days.
   - Longest streak of consecutive contribution days.
   - GitHub joining date, total no. of days on GitHub and no. of active days.
 
-- **Yearly Growth Stats**:
+- **📅 Yearly Growth Stats**:
   - Total contribution in previous year
   - Rate of contribution
   - No. of activate days
   - Percentage of days active in the year
   - Same for current year for comparison
 
-- **Visualizations**:
+- **📊 Visualizations**:
   - **Contributions Over Time**: A line chart showing daily contributions.
   - **Yearly Growth**: A bar chart summarizing contributions year by year.
   - **Day-of-Week Analysis**: Contributions grouped by the day of the week.
   - **Weekday vs. Weekend Contributions**: A bar chart comparing contributions made on weekdays versus weekends.
   - **Programming Languages**: Pie chart and a table showing which programming languages are used and in how many repos
 
-- **Achievements**:
+- **🏆 Achievements**:
   - Dynamic achievements unlocked based on contribution and streak activity, such as:
     - **"🔥 Streak Warrior"**: A streak of over 30 days.
     - **"💪 Commit Master"**: Total contributions exceeding 1000.
@@ -45,38 +59,38 @@ GitHub Contribution Tracker is a **Streamlit** web application that visualizes G
 </details>
 
 <details>
-<summary><b>User Contribution Predictions</b></summary><br>
+<summary><b>🔮 User Contribution Predictions</b></summary><br>
 
-- **Predictions & Trends**:
+- **📈 Predictions & Trends**:
   - **Contribution Rate Growth**: Growth in contribution rate compared to last year
   - **Predicted Contributions This Year**: Total predicted commits this year, if user continues to contribute at the same rate
   - **Predicted Active Days This Year**: Total predicted active days this year, if user continues to contribute at the same rate
-- **Milestone Estimations**:
+- **🎯 Milestone Estimations**:
   
   Predicts for milestones `[100, 500, 1000, 2000, 5000, 10000]` contributions:
-  - Number of days required to achive commit milestones
+  - Number of days required to achieve commit milestones
   - Date on which milestone will be achieved
 </details>
 
+---
 
-## Installation
+## 🛠️ Installation
 
-### Prerequisites
+### 📋 Prerequisites
 
-1. Python 3.7 or higher.
-2. GitHub [personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classi) with GraphQL API access.
-3. Streamlit (`pip install streamlit`).
+1. 🐍 Python 3.7 or higher.
+2. 🔑 GitHub [personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classi) with GraphQL API access.
+3. 🌐 Streamlit (`pip install streamlit`).
 
-### Setup Instructions
+### ⚙️ Setup Instructions
 
-1. Clone the repository:
-
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/ishandutta2007/GitHub-Analytics.git
    cd GitHub-Analytics
    ```
 
-2. Set up a virtual environment (Optional but recommended):
+2. **Set up a virtual environment (Optional but recommended)**:
 
    Using `venv`:
    ```bash
@@ -90,29 +104,27 @@ GitHub Contribution Tracker is a **Streamlit** web application that visualizes G
    pyenv activate github-analytics-env
    ```
 
-3. Install dependencies:
-
+3. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Run the app:
-
+4. **Run the app**:
    ```bash
    streamlit run app.py
    ```
 
-5. Open your browser and navigate to the URL shown in the terminal (usually `http://localhost:8501`).
+5. **Open your browser** and navigate to the URL shown in the terminal (usually `http://localhost:8501`).
 
 ---
 
-## Usage
+## 💡 Usage
 
 1. Enter your **GitHub Username**.
 2. Provide a **GitHub Personal Access Token** (with `read:user` and `repo` scopes for GraphQL API access).
 3. View detailed stats, visualizations, and achievements based on your contribution data.
 
-### How to Generate a GitHub Personal Access Token
+### 🔑 How to Generate a GitHub Personal Access Token
 
 1. Go to [GitHub Developer Settings](https://github.com/settings/tokens).
 2. Click on **Generate new token (classic)** or **Generate token** (for fine-grained).
@@ -121,7 +133,9 @@ GitHub Contribution Tracker is a **Streamlit** web application that visualizes G
    - `read:user`
 4. Copy the generated token and use it in the app.
 
-## Folder Structure
+---
+
+## 📂 Folder Structure
 
 ```
 github-contribution-tracker/
@@ -133,31 +147,35 @@ github-contribution-tracker/
 
 ---
 
-### Future Improvements
+## 🔮 Future Improvements
 
-- Add achievements in form of badges.
-- Include repository-specific stats (e.g., most active repositories).
-- Display contributions grouped by month.
-- Add user rankings for team or organization collaboration.
+- 🏅 Add achievements in form of badges.
+- 📦 Include repository-specific stats (e.g., most active repositories).
+- 🗓️ Display contributions grouped by month.
+- 👥 Add user rankings for team or organization collaboration.
 
-## Screenshots
+---
+
+## 📸 Screenshots
 
 <details>
 <summary><b>Click to View Images 📷</b></summary><br>
 
-![image](https://github.com/user-attachments/assets/4691bbb4-f544-4ac4-8fda-f1734d4f80e1)
+![Dashboard View 1](https://github.com/user-attachments/assets/4691bbb4-f544-4ac4-8fda-f1734d4f80e1)
 
-![image](https://github.com/user-attachments/assets/b8c13eba-3218-4515-8e86-23d11b34310d)
+![Dashboard View 2](https://github.com/user-attachments/assets/b8c13eba-3218-4515-8e86-23d11b34310d)
 
-![image](https://github.com/user-attachments/assets/e570ccd1-7b26-4c21-9649-28f0b15234df)
+![Dashboard View 3](https://github.com/user-attachments/assets/e570ccd1-7b26-4c21-9649-28f0b15234df)
 
-![image](https://github.com/user-attachments/assets/4d00a782-73ae-4051-afd9-b236831a4b24)
+![Dashboard View 4](https://github.com/user-attachments/assets/4d00a782-73ae-4051-afd9-b236831a4b24)
 
-![image](https://github.com/user-attachments/assets/c221c971-c944-4c7c-8058-2b1e3afcf9c1)
+![Dashboard View 5](https://github.com/user-attachments/assets/c221c971-c944-4c7c-8058-2b1e3afcf9c1)
 
 </details>
 
-## Contributing
+---
+
+## 🤝 Contributing
 
 Contributions are welcome! To contribute:
 
@@ -167,16 +185,21 @@ Contributions are welcome! To contribute:
 4. Push to your fork: `git push origin feature/your-feature`.
 5. Create a pull request.
 
-## License
+---
+
+## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
+---
+
+## 🙏 Acknowledgements
 
 - **[Streamlit](https://streamlit.io/)**: For building the interactive web application.
 - **[GitHub GraphQL API](https://docs.github.com/en/graphql)**: For data fetching.
 
+---
 
-### ✨ Star History
+## ✨ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Github-Analytics&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Github-Analytics&type=date&legend=top-left)
