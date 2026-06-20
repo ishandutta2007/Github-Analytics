@@ -23,7 +23,8 @@
 
 **ℹ️ _Now features Machine Learning to predict user contribution over a year using previous year's contribution data!_**
 
-![GitHub Analytics Main Dashboard](assets/screenshot.png)
+![GitHub Analytics Main Dashboard](assets/Screenshot_1.png)
+![GitHub Analytics Predictions Dashboard](assets/Screenshot_2.png)
 
 ## 🚀 Features
 
